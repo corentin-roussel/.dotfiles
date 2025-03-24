@@ -133,3 +133,4 @@ export PATH="$PATH:/bin/sh"
 PATH=~/.console-ninja/.bin:$PATH
 
 alias up="sudo apt update && sudo apt upgrade"
+export PATH=$PATH:/usr/local/go/bin
